@@ -3,7 +3,7 @@
 A new Flutter project !
 
 ----
-
+this is the first application using flutter and dart i did along with learning these technologies
 
 ## Getting Started
 

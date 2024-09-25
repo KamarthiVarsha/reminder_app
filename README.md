@@ -1,12 +1,9 @@
-# Flutter app in Zapp!
+# Flutter app 
 
-A new Flutter project built with Zapp!
-
-----
-
-> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
+A new Flutter project !
 
 ----
+this is the first application using flutter and dart i did along with learning these technologies
 
 ## Getting Started
 
